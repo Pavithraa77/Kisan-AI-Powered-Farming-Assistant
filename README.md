@@ -1,1 +1,1 @@
-# Kisan:AI-Powered-Farming-Assistantt
+# Kisan:AI-Powered-Farming-Assistant
